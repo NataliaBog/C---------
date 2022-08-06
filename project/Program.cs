@@ -2,7 +2,7 @@
 //int number2 = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine(number1+number2);
 
-int secretNumber = 7;
+int secretNumber = new Random().Next(1,11);
 int popytki = 3;
 bool flagWin = false;
 while(popytki >0)
