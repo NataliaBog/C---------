@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\C# семинар\project\bin\Debug\net6.0\project.exe
+C:\Users\777\Desktop\C# семинар\project\bin\Debug\net6.0\project.deps.json
+C:\Users\777\Desktop\C# семинар\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\777\Desktop\C# семинар\project\bin\Debug\net6.0\project.dll
+C:\Users\777\Desktop\C# семинар\project\bin\Debug\net6.0\project.pdb
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.dll
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.pdb
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\777\Desktop\C# семинар\project\obj\Debug\net6.0\ref\project.dll
